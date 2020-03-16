@@ -57,6 +57,15 @@ const Hero = () => (
       </a>{' '}
       API
     </HeroSubTitle>
+    <HeroSubTitle> 
+       <a
+        href="https://coronavirus.jhu.edu/map.html"
+        target="_blank"
+        rel="noopener noreferrer"
+       >
+         Big thanks to John Hopkins University Center For Systems Science and Engineering
+      </a>
+    </HeroSubTitle>
   </HeroContainer>
 );
 
